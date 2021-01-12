@@ -89,7 +89,7 @@ Download and install java connector [here](https://dev.mysql.com/downloads/conne
 
 Copy the connector's .jar file into the <JAVA_HOME>\jre\lib\ext.
 
-Create a new MySQL user by logging into a client session as the root user and executing the code below:
+Create a new MySQL user by logging into a client session as the root user and executing the code:
 create user 'otheruser'@'localhost' identified by 'swordfish';
 
 Then log into a client session as the 'otheruser' and run the sql file - database PoisePMS.sql.
