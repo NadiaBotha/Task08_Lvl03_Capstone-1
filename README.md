@@ -96,4 +96,11 @@ Then log into a client session as the 'otheruser' and run the sql file - databas
 
 The database and tables should now be created with three records in each table.
 
+Copy all the java files in the same folder. Java files include: 
+- Poised.java
+- Project.java
+- Person.java
+- ProjectMethods.java
+- PersonMethods.java
+- UserIntefaceMethods.java
 Open Poised.java and run the file. Follow the instructions as displayed in the program.
